@@ -166,7 +166,9 @@ Due to environment-related limitations, the container was not run locally,
 
 but the project is ready to be containerized on any supported system.
 
-
+Docker Note
+Due to local environment limitations, Docker was tested successfully using an online Docker playground.
+Screenshots of build and run steps are attached as proof of execution.
 
 ---
 
